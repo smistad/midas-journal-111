@@ -1,0 +1,3 @@
+Example is run with:
+
+./CreateShapeModel cuboids.txt landmarks642.pts 100
