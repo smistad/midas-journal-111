@@ -4,7 +4,7 @@
 #include "itkStatisticalShapeModel3DCalculator.h"
 #include "itkVector.h"
 #include "itkListSample.h"
-#include "itkMeanCalculator.h"
+#include "Statistics/itkMeanCalculator.h"
 
 
 #define NUM_COMPONENTS 2
